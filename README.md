@@ -3,5 +3,5 @@
 
 - 👾 Engenharia de Software
 - 😊 Desenvolvedora BackEnd 
-- 😎 EStudante de Python, Django, SQL e AWS
+- 😎 Estudante de Python, Django, SQL e AWS
 
